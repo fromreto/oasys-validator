@@ -1,5 +1,11 @@
 ## Go Ethereum
 
+<div align="center">
+  <a href="https://docs.oasys.games"><img alt="https://raw.githubusercontent.com/fromreto/oasys-validator/ea8602d536e4b2c8481ace34f6f7b55868572c05/oasys_logo.png"></a>
+  <br />
+  <h1> The Optimism Monorepo</h1>
+</div>
+
 Official Golang implementation of the Ethereum protocol.
 
 [![API Reference](
